@@ -12,7 +12,7 @@ The Face Mask Detector notebook showcases the use of computer vision to detect w
 The dataset used to train the model was obtained from Kaggle.
 
 ## Reimplementation of a Paper
-The Reimplementation of a Paper notebook demonstrates how to reproduce the results of a research paper. The paper selected for this notebook is titled [insert paper title]. The notebook uses PyTorch to implement the model and reproduce the results presented in the paper.
+The Reimplementation of a Paper notebook demonstrates how to reproduce the results of a research paper. The paper selected for this notebook is titled __A Strong Baseline for Vehicle Re-Identification.__ The notebook uses PyTorch to implement the model and reproduce the results presented in the paper.
 
 ## Stock Price Predictor
 The Stock Price Predictor notebook shows how to use time series analysis to predict stock prices. The notebook uses the 4 datasets (**FPT, MSN, PNJ, VIC**) and then applies some simple model (**linear, LSTM, GRU**) to predict future prices.
